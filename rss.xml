@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[makenaworld]]></title>
         <description><![CDATA[makenaworld]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/makenaworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 01:05:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 01:08:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/makenaworld/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Musings from the Awesome</p>]]></description>
-            <link>undefinedmusings-from-the-awesome/index.html</link>
+            <link>https://thegrid.ai/makenaworld/musings-from-the-awesome/index.html</link>
             <guid isPermaLink="false">28e79ea5-c9cf-4fc2-a97b-ba2c390b4f69</guid>
-            <pubDate>Sun, 27 Mar 2016 01:05:08 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 01:08:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
