@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Musings from the Awesome
-datePublished: '2016-03-27T01:05:08.460Z'
-dateModified: '2016-03-27T01:05:02.898Z'
+datePublished: '2016-03-27T01:08:04.993Z'
+dateModified: '2016-03-27T01:07:17.405Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-27-musings-from-the-awesome.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-musings-from-the-awesome.md
-published: true
 url: musings-from-the-awesome/index.html
 _type: Article
 
