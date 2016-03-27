@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Musings from the Awesome
-datePublished: '2016-03-27T01:08:04.993Z'
-dateModified: '2016-03-27T01:07:17.405Z'
+datePublished: '2016-03-27T01:10:12.477Z'
+dateModified: '2016-03-27T01:09:59.920Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-27-musings-from-the-awesome.md
@@ -22,4 +22,6 @@ url: musings-from-the-awesome/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2364f01-afdd-4af0-a4b6-284a03a05677.jpg)
+
 Musings from the Awesome
