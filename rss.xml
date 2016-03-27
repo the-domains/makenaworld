@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[makenaworld]]></title>
+        <description><![CDATA[makenaworld]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 01:05:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Musings from the Awesome</p>]]></description>
+            <link>undefinedmusings-from-the-awesome/index.html</link>
+            <guid isPermaLink="false">28e79ea5-c9cf-4fc2-a97b-ba2c390b4f69</guid>
+            <pubDate>Sun, 27 Mar 2016 01:05:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
