@@ -1,19 +1,4 @@
-name: makenaworld
-favicon: null
-layout_spectrum: 0.38333530304953456
 typography_spectrum: 0.6094462182372808
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2951409602537751
   saturation: 0.35828008269891143
   rhythmicContrast: 0.804094610735774
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.38333530304953456
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: makenaworld
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Sing Celebrate Be Still
 purpose: []
